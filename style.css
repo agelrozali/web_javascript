@@ -1,0 +1,15 @@
+.logo {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #content {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .input-form, .data-table, .preview, .close-btn {
+    display: none;
+    text-align: center;
+    margin-top: 20px;
+  }
